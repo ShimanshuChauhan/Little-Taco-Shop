@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-# Little-Taco-Shop
-
-git remote add origin https://github.com/ShimanshuChauhan/Little-Taco-Shop.git
-git branch -M main
-git push -u origin main
-=======
 # LITTLE TACO SHOP
->Build using HTML and CSS
+>Built using HTML and CSS
 <div id="badges">
     <img src="https://img.shields.io/badge/HTML-orange" alt="HTML badge"/>
     <img src="https://img.shields.io/badge/CSS-blue" alt="CSS badge"/>
@@ -38,4 +31,3 @@ This project is built as a learning step towards becoming a good front end devel
   <a href="https://the-little-taco-shop.netlify.app/">
     <img src="https://img.shields.io/badge/Website-red" alt="LinkedIn Badge" alt="Little-taco-shop website link"/>
 </div>
->>>>>>> 3c7b3bf55ba241d4da00fe862e7d9bb88ee655ae
